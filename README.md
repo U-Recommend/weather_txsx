@@ -11,7 +11,7 @@
 * [Summary](#summary)
 * [Blocks](#blocks)
 * [License](#license)
-* [Supported targets](#Supportedtargets)
+
 
 ## URL
 * Project URL : ```https://github.com/U-Recommend/weather_txsx.git```

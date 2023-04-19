@@ -1,22 +1,5 @@
 {
-	"LANG":{
-		"menu":[
-			["en","en"],
-			["zh","zh"],
-			["cht","cht"],
-			["yue","yue"],
-			["wyw","wyw"],
-			["kor","kor"],
-			["th","th"],
-			["pt","pt"],
-			["el","el"],
-			["fra","fra"],
-			["ara","ara"],
-			["de","de"],
-			["jp","jp"],
-			["spa","spa"],
-			["ru","ru"],
-			["it","it"]
-		]
+	"WTYPE": {
+		"menu": [["天气","wea"],["温度","tem"],["湿度","humidity"],["空气质量","air"],["风力","win_speed"],["风向","win"],["风速","win_meter"],["气压","pressure"]]
 	}
 }

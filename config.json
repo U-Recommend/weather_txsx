@@ -1,31 +1,26 @@
 {
-	"name": {
-		"zh-cn": "获取天气信息",
-		"en": "weather"
-	},
-	"description": {
-		"zh-cn": "Python模式使用requests库实现获取天气api数据",
-		"en": "weather"
-	},
-	"author": "tonytan",
-	"email": "115222956@qq.com",
-	"license": "MIT",
-	"isBoard": false,
-	"id": "weather_requests",
-	"platform": [
-		"win",
-		"mac",
-		"web"
-	],
-	"version": "0.0.1",
-	"asset": {
-		"python": {
-			"dir": "python/",
-			"version": "0.0.1",
-			"main": "main.ts",
-			"dependencies": {
-				"requests": "2.28.2"
-			}
-		}
-	}
+  "name": {
+    "zh-cn": "获取天气信息",
+    "en": "weather"
+  },
+  "description": {
+    "zh-cn": "Python模式使用requests库实现获取天气api数据",
+    "en": "weather"
+  },
+  "author": "tonytan",
+  "email": "115222956@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "weather_requests",
+  "platform": ["win", "mac", "web"],
+  "version": "0.0.1",
+  "asset": {
+  "python": {
+    "dir": "python/",
+    "main": "main.ts",
+    "dependencies": {
+      "requests": "2.28.1"
+    }
+  }
+  }
 }
